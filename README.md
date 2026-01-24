@@ -73,4 +73,16 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
+<p align="left">
+  <a href="[https://www.linkedin.com/in/prajwal-yede](https://www.linkedin.com/in/prajwal-yede-2b9858348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:yedeprajwal@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="[[https://www.instagram.com/niteen_wadhai_55](https://www.instagram.com/prajwal_yede_)](https://www.instagram.com/prajwal_yede_?igsh=eHNqMWR2czhkaWxy)" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="[(https://www.facebook.com/prajwal.yede.73)](https://www.facebook.com/prajwal.yede.73?mibextid=ZbWKwL))" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile"/>
+  </a>
+</p>
